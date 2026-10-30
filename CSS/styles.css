@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aquamarine;
+}
+
+.contenedor{
+    width: 80%;
+    max-width: 450px auto;
+    margin: 70px auto;
+    padding: 25px;
+    background-color: lightgreen;
+    text-align: center;
+    border-radius: 10px;
+}
+h1,label{
+    color: #5E2129;
+}
+input{
+    padding: 10px;
+    margin: 15px auto;
+    width: 80%;
+    border-radius: 10px;
+}
+
+button{
+    padding: 10px 20px;
+    background-color: #2563eb;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#resultado{
+    font-weight: bold;
+    color: blue;
+}
